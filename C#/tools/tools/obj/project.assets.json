@@ -1395,11 +1395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\LeomonRD\\Desktop\\公司\\GITHUB\\GIT_Ctr\\C#\\tools\\tools\\tools.csproj",
+      "projectUniqueName": "E:\\Users\\LeomonRD\\Desktop\\公司\\發行\\Demo_Prg\\C#\\tools\\tools\\tools.csproj",
       "projectName": "tools",
-      "projectPath": "E:\\Users\\LeomonRD\\Desktop\\公司\\GITHUB\\GIT_Ctr\\C#\\tools\\tools\\tools.csproj",
+      "projectPath": "E:\\Users\\LeomonRD\\Desktop\\公司\\發行\\Demo_Prg\\C#\\tools\\tools\\tools.csproj",
       "packagesPath": "C:\\Users\\JCont\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\LeomonRD\\Desktop\\公司\\GITHUB\\GIT_Ctr\\C#\\tools\\tools\\obj\\",
+      "outputPath": "E:\\Users\\LeomonRD\\Desktop\\公司\\發行\\Demo_Prg\\C#\\tools\\tools\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

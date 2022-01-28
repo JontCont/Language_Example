@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0A0eL0UyKAGF2Ufhd/EdDJ9II0V75TaVtVgE8SF1J4CEBXfHO0VRNzlIthBiDVjxiLD5PmrUqbGecVJEfVKyWQ==",
+  "dgSpecHash": "BlIgxeH1NcwMyT4a4pesLwM9jbqQK4TiOxBhXtx4Tzl/YyjhA5pCpkORXOFKeWqCkTOQj5VlOxSojA80eCnOYw==",
   "success": true,
-  "projectFilePath": "E:\\Users\\LeomonRD\\Desktop\\公司\\GITHUB\\GIT_Ctr\\C#\\tools\\tools\\tools.csproj",
+  "projectFilePath": "E:\\Users\\LeomonRD\\Desktop\\公司\\發行\\Demo_Prg\\C#\\tools\\tools\\tools.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JCont\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\JCont\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
