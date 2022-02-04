@@ -1,9 +1,0 @@
-html *{ margin:0px; padding:0; outline: none; position: relative;}
-html{ -webkit-text-size-adjust: none;}
-ol, ul{ list-style: none;}
-body{ font:15px/1 Arial, "微軟正黑體", "細明體";}
-img{ border:0;}
-a{ text-decoration: none;}
-table{ border-collapse: collapse;}
-input, textarea, select, option, button, input[type="button"], input[type="submit"], input[type="reset"]{ font-family: Arial, "微軟正黑體", "細明體";}
-button, input[type="button"], input[type="submit"], input[type="reset"], input[type="datetime"], input[type="search"]{ cursor: pointer; -webkit-appearance: none;}

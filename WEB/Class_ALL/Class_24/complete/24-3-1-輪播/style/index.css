@@ -1,6 +1,0 @@
-@charset "UTF-8";
-
-body{ background: #555; color:#FFF; font-size:1em;}
-h1{ text-align: center; color: #fff; text-shadow: -1px -1px #000;}
-.img__inner{ width:700px; margin: 2em auto; box-shadow:10px 10px #222;}
-.img-resp{ width: 100%; height: auto; display: block;}

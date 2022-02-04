@@ -1,5 +1,0 @@
-body{ background: #ddd; font-family: Arial, Helvetica, sans-serif;}
-h1{ text-align: center; font-size: 3em; margin: 1em 0; color: #fff; text-shadow: 1px 1px #666;}
-.clearfix:after{ content: ''; display: block; clear: both;}
-.img__inner{ background: #333; width: 770px; margin: auto; padding: 5px;}
-.img-resp{ float: left; margin: 5px;}
